@@ -1,0 +1,23 @@
+{
+  "name": "multipub",
+  "version": "0.0.1",
+  "repository": "segmentio/multipub",
+  "description": "multi-redis pub/sub",
+  "keywords": [
+    "redis",
+    "pub",
+    "sub",
+    "publish",
+    "subscribe"
+  ],
+  "dependencies": {
+    "redis": "~0.10.1",
+    "debug": "~0.7.4",
+    "forward-events": "0.0.1"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "license": "MIT"
+}
